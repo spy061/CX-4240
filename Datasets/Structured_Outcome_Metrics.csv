@@ -1,0 +1,315 @@
+Project ID,Outcome Metric ID,Outcome Pricing,Outcome Definition - (Value),Target Population - (Value),Targeted number of service users Or beneficiaries (total) - (Value),Unit type of targeted Service users or beneficiaries - (Value),Outcome metric target - (Value),Policy sector - (Value),Primary SDG goal - (Value),Secondary SDG goals - (Value),Primary SDG target - (Value),Secondary SDG targets - (Value)
+INDIGO-POJ-0001,metric-0001,405.89,Improved outcomes for individuals in education sector,Youth,438,Individual,284,Education,SDG 4,SDG 3,Target 10.4,Target 1.1
+INDIGO-POJ-0002,metric-0002,752.29,Improved outcomes for individuals in education sector,Refugees,420,Individual,273,Education,SDG 15,SDG 9,Target 1.2,Target 7.3
+INDIGO-POJ-0003,metric-0003,158.82,Improved outcomes for individuals in criminal justice sector,Youth,500,Individual,300,Criminal justice,SDG 9,SDG 2,Target 8.5,Target 2.4
+INDIGO-POJ-0004,metric-0004,383.76,Improved outcomes for households in employment and training sector,Refugees,579,Household,347,Employment and training,SDG 3,SDG 8,Target 2.4,Target 5.4
+INDIGO-POJ-0005,metric-0005,585.54,Improved outcomes for households in criminal justice sector,Women,532,Household,319,Criminal justice,SDG 8,SDG 6,Target 8.4,Target 5.5
+INDIGO-POJ-0006,metric-0006,811.65,Improved outcomes for familys in health sector,Women,342,Family,188,Health,SDG 7,SDG 11,Target 4.4,Target 7.4
+INDIGO-POJ-0007,metric-0007,386.88,Improved outcomes for households in education sector,Women,363,Household,235,Education,SDG 5,SDG 17,Target 8.1,Target 1.1
+INDIGO-POJ-0008,metric-0008,663.3,Improved outcomes for households in criminal justice sector,Youth,645,Household,387,Criminal justice,SDG 9,SDG 1,Target 2.5,Target 5.3
+INDIGO-POJ-0009,metric-0009,897.38,Improved outcomes for individuals in employment and training sector,Youth,531,Individual,318,Employment and training,SDG 17,SDG 7,Target 3.3,Target 3.5
+INDIGO-POJ-0010,metric-0010,654.28,Improved outcomes for familys in education sector,Women,686,Family,445,Education,SDG 3,SDG 3,Target 8.1,Target 9.2
+INDIGO-POJ-0011,metric-0011,309.66,Improved outcomes for individuals in employment and training sector,Women,265,Individual,159,Employment and training,SDG 13,SDG 12,Target 8.5,Target 8.1
+INDIGO-POJ-0012,metric-0012,121.96,Improved outcomes for individuals in health sector,Women,885,Individual,486,Health,SDG 2,SDG 8,Target 2.1,Target 6.1
+INDIGO-POJ-0013,metric-0013,883.09,Improved outcomes for individuals in housing sector,Disabled persons,678,Individual,406,Housing,SDG 14,SDG 7,Target 2.1,Target 7.3
+INDIGO-POJ-0014,metric-0014,119.14,Improved outcomes for familys in employment and training sector,Women,387,Family,232,Employment and training,SDG 4,SDG 8,Target 4.2,Target 9.4
+INDIGO-POJ-0015,metric-0015,887.23,Improved outcomes for individuals in health sector,Disabled persons,610,Individual,335,Health,SDG 1,SDG 3,Target 4.2,Target 7.4
+INDIGO-POJ-0016,metric-0016,576.04,Improved outcomes for households in housing sector,Youth,521,Household,312,Housing,SDG 16,SDG 5,Target 4.3,Target 4.1
+INDIGO-POJ-0017,metric-0017,945.16,Improved outcomes for households in criminal justice sector,Disabled persons,783,Household,469,Criminal justice,SDG 3,SDG 6,Target 2.5,Target 2.2
+INDIGO-POJ-0018,metric-0018,818.9,Improved outcomes for familys in employment and training sector,Refugees,523,Family,313,Employment and training,SDG 7,SDG 11,Target 4.3,Target 7.2
+INDIGO-POJ-0019,metric-0019,998.14,Improved outcomes for households in criminal justice sector,Women,491,Household,294,Criminal justice,SDG 7,SDG 17,Target 5.2,Target 6.1
+INDIGO-POJ-0020,metric-0020,415.64,Improved outcomes for individuals in criminal justice sector,Women,488,Individual,292,Criminal justice,SDG 10,SDG 4,Target 3.3,Target 2.1
+INDIGO-POJ-0021,metric-0021,790.47,Improved outcomes for individuals in employment and training sector,Refugees,852,Individual,511,Employment and training,SDG 2,SDG 3,Target 7.3,Target 1.1
+INDIGO-POJ-0022,metric-0022,461.74,Improved outcomes for familys in health sector,Women,330,Family,181,Health,SDG 3,SDG 5,Target 9.1,Target 6.5
+INDIGO-POJ-0023,metric-0023,531.89,Improved outcomes for households in health sector,Women,225,Household,123,Health,SDG 12,SDG 14,Target 10.2,Target 4.2
+INDIGO-POJ-0024,metric-0024,664.75,Improved outcomes for individuals in education sector,Disabled persons,512,Individual,332,Education,SDG 4,SDG 13,Target 1.4,Target 4.2
+INDIGO-POJ-0025,metric-0025,886.31,Improved outcomes for households in health sector,Youth,467,Household,256,Health,SDG 9,SDG 12,Target 9.4,Target 9.3
+INDIGO-POJ-0026,metric-0026,985.68,Improved outcomes for households in housing sector,Youth,646,Household,387,Housing,SDG 17,SDG 4,Target 7.5,Target 4.3
+INDIGO-POJ-0027,metric-0027,791.45,Improved outcomes for individuals in health sector,Refugees,330,Individual,181,Health,SDG 10,SDG 17,Target 5.4,Target 6.4
+INDIGO-POJ-0028,metric-0028,475.99,Improved outcomes for individuals in housing sector,Refugees,652,Individual,391,Housing,SDG 1,SDG 10,Target 5.2,Target 7.5
+INDIGO-POJ-0029,metric-0029,479.22,Improved outcomes for familys in criminal justice sector,Women,247,Family,148,Criminal justice,SDG 11,SDG 3,Target 4.3,Target 4.2
+INDIGO-POJ-0030,metric-0030,763.82,Improved outcomes for individuals in housing sector,Disabled persons,380,Individual,228,Housing,SDG 16,SDG 13,Target 4.2,Target 1.1
+INDIGO-POJ-0031,metric-0031,314.9,Improved outcomes for familys in housing sector,Disabled persons,961,Family,576,Housing,SDG 17,SDG 11,Target 8.5,Target 9.4
+INDIGO-POJ-0032,metric-0032,199.43,Improved outcomes for households in education sector,Refugees,753,Household,489,Education,SDG 9,SDG 15,Target 2.3,Target 4.3
+INDIGO-POJ-0033,metric-0033,419.16,Improved outcomes for households in health sector,Youth,630,Household,346,Health,SDG 14,SDG 14,Target 6.5,Target 8.4
+INDIGO-POJ-0034,metric-0034,358.52,Improved outcomes for familys in employment and training sector,Women,424,Family,254,Employment and training,SDG 10,SDG 13,Target 7.5,Target 9.5
+INDIGO-POJ-0035,metric-0035,366.68,Improved outcomes for familys in housing sector,Youth,638,Family,382,Housing,SDG 5,SDG 1,Target 7.5,Target 10.1
+INDIGO-POJ-0036,metric-0036,310.25,Improved outcomes for households in housing sector,Youth,219,Household,131,Housing,SDG 11,SDG 11,Target 7.3,Target 7.3
+INDIGO-POJ-0037,metric-0037,137.88,Improved outcomes for individuals in health sector,Women,885,Individual,486,Health,SDG 8,SDG 7,Target 1.5,Target 3.2
+INDIGO-POJ-0038,metric-0038,116.09,Improved outcomes for individuals in education sector,Disabled persons,932,Individual,605,Education,SDG 10,SDG 4,Target 10.1,Target 5.5
+INDIGO-POJ-0039,metric-0039,988.95,Improved outcomes for households in criminal justice sector,Youth,863,Household,517,Criminal justice,SDG 4,SDG 2,Target 6.5,Target 7.3
+INDIGO-POJ-0040,metric-0040,485.0,Improved outcomes for familys in housing sector,Disabled persons,646,Family,387,Housing,SDG 5,SDG 14,Target 3.5,Target 5.5
+INDIGO-POJ-0041,metric-0041,445.89,Improved outcomes for familys in education sector,Women,417,Family,271,Education,SDG 15,SDG 13,Target 6.1,Target 8.3
+INDIGO-POJ-0042,metric-0042,711.68,Improved outcomes for households in criminal justice sector,Women,687,Household,412,Criminal justice,SDG 7,SDG 3,Target 4.4,Target 8.5
+INDIGO-POJ-0043,metric-0043,296.43,Improved outcomes for individuals in housing sector,Refugees,963,Individual,577,Housing,SDG 8,SDG 10,Target 10.3,Target 8.5
+INDIGO-POJ-0044,metric-0044,954.97,Improved outcomes for familys in education sector,Women,956,Family,621,Education,SDG 4,SDG 7,Target 6.1,Target 9.2
+INDIGO-POJ-0045,metric-0045,807.71,Improved outcomes for individuals in education sector,Women,246,Individual,159,Education,SDG 10,SDG 8,Target 6.2,Target 5.1
+INDIGO-POJ-0046,metric-0046,180.47,Improved outcomes for familys in health sector,Youth,689,Family,378,Health,SDG 10,SDG 16,Target 8.4,Target 6.2
+INDIGO-POJ-0047,metric-0047,475.82,Improved outcomes for households in education sector,Women,589,Household,382,Education,SDG 10,SDG 3,Target 4.1,Target 9.4
+INDIGO-POJ-0048,metric-0048,891.21,Improved outcomes for familys in criminal justice sector,Women,765,Family,459,Criminal justice,SDG 4,SDG 7,Target 4.3,Target 2.2
+INDIGO-POJ-0049,metric-0049,950.26,Improved outcomes for households in employment and training sector,Women,840,Household,504,Employment and training,SDG 2,SDG 8,Target 5.3,Target 8.1
+INDIGO-POJ-0050,metric-0050,520.66,Improved outcomes for familys in education sector,Refugees,327,Family,212,Education,SDG 3,SDG 2,Target 3.3,Target 10.5
+INDIGO-POJ-0051,metric-0051,652.07,Improved outcomes for households in housing sector,Youth,434,Household,260,Housing,SDG 3,SDG 2,Target 7.3,Target 10.3
+INDIGO-POJ-0052,metric-0052,250.33,Improved outcomes for households in education sector,Disabled persons,703,Household,456,Education,SDG 16,SDG 17,Target 8.3,Target 3.5
+INDIGO-POJ-0053,metric-0053,992.05,Improved outcomes for familys in employment and training sector,Disabled persons,522,Family,313,Employment and training,SDG 14,SDG 16,Target 5.4,Target 9.1
+INDIGO-POJ-0054,metric-0054,308.5,Improved outcomes for individuals in housing sector,Disabled persons,408,Individual,244,Housing,SDG 2,SDG 7,Target 9.3,Target 10.4
+INDIGO-POJ-0055,metric-0055,948.46,Improved outcomes for households in health sector,Disabled persons,430,Household,236,Health,SDG 8,SDG 6,Target 5.5,Target 1.5
+INDIGO-POJ-0056,metric-0056,684.68,Improved outcomes for individuals in criminal justice sector,Women,395,Individual,237,Criminal justice,SDG 9,SDG 14,Target 8.4,Target 4.4
+INDIGO-POJ-0057,metric-0057,646.96,Improved outcomes for households in health sector,Disabled persons,695,Household,382,Health,SDG 10,SDG 10,Target 10.5,Target 8.2
+INDIGO-POJ-0058,metric-0058,561.42,Improved outcomes for familys in education sector,Disabled persons,590,Family,383,Education,SDG 8,SDG 13,Target 4.4,Target 1.3
+INDIGO-POJ-0059,metric-0059,307.6,Improved outcomes for familys in health sector,Disabled persons,358,Family,196,Health,SDG 15,SDG 4,Target 9.4,Target 1.2
+INDIGO-POJ-0060,metric-0060,258.88,Improved outcomes for households in health sector,Youth,846,Household,465,Health,SDG 11,SDG 13,Target 6.4,Target 9.1
+INDIGO-POJ-0061,metric-0061,298.44,Improved outcomes for familys in housing sector,Refugees,583,Family,349,Housing,SDG 6,SDG 10,Target 1.1,Target 6.1
+INDIGO-POJ-0062,metric-0062,267.79,Improved outcomes for familys in education sector,Women,672,Family,436,Education,SDG 3,SDG 13,Target 10.2,Target 8.5
+INDIGO-POJ-0063,metric-0063,801.63,Improved outcomes for households in criminal justice sector,Disabled persons,456,Household,273,Criminal justice,SDG 6,SDG 3,Target 8.3,Target 10.3
+INDIGO-POJ-0064,metric-0064,415.11,Improved outcomes for households in housing sector,Youth,902,Household,541,Housing,SDG 12,SDG 10,Target 5.1,Target 7.3
+INDIGO-POJ-0065,metric-0065,152.06,Improved outcomes for individuals in education sector,Disabled persons,793,Individual,515,Education,SDG 7,SDG 9,Target 3.1,Target 1.3
+INDIGO-POJ-0066,metric-0066,972.19,Improved outcomes for individuals in education sector,Refugees,502,Individual,326,Education,SDG 5,SDG 12,Target 9.5,Target 5.2
+INDIGO-POJ-0067,metric-0067,895.41,Improved outcomes for households in housing sector,Youth,577,Household,346,Housing,SDG 12,SDG 3,Target 7.1,Target 5.5
+INDIGO-POJ-0068,metric-0068,934.98,Improved outcomes for individuals in housing sector,Refugees,618,Individual,370,Housing,SDG 1,SDG 11,Target 10.2,Target 2.4
+INDIGO-POJ-0069,metric-0069,995.42,Improved outcomes for familys in health sector,Disabled persons,960,Family,527,Health,SDG 8,SDG 5,Target 7.4,Target 6.5
+INDIGO-POJ-0070,metric-0070,256.51,Improved outcomes for familys in employment and training sector,Refugees,902,Family,541,Employment and training,SDG 2,SDG 12,Target 4.4,Target 8.2
+INDIGO-POJ-0071,metric-0071,456.62,Improved outcomes for familys in health sector,Women,983,Family,540,Health,SDG 7,SDG 1,Target 1.3,Target 4.2
+INDIGO-POJ-0072,metric-0072,782.41,Improved outcomes for households in employment and training sector,Youth,215,Household,129,Employment and training,SDG 5,SDG 5,Target 9.3,Target 3.1
+INDIGO-POJ-0073,metric-0073,726.42,Improved outcomes for familys in education sector,Refugees,807,Family,524,Education,SDG 14,SDG 17,Target 2.1,Target 8.4
+INDIGO-POJ-0074,metric-0074,238.51,Improved outcomes for familys in housing sector,Disabled persons,654,Family,392,Housing,SDG 1,SDG 2,Target 8.4,Target 7.1
+INDIGO-POJ-0075,metric-0075,834.25,Improved outcomes for individuals in criminal justice sector,Disabled persons,918,Individual,550,Criminal justice,SDG 11,SDG 13,Target 10.5,Target 5.4
+INDIGO-POJ-0076,metric-0076,302.0,Improved outcomes for households in housing sector,Refugees,903,Household,541,Housing,SDG 14,SDG 4,Target 6.4,Target 6.3
+INDIGO-POJ-0077,metric-0077,301.44,Improved outcomes for households in employment and training sector,Youth,562,Household,337,Employment and training,SDG 5,SDG 2,Target 10.5,Target 9.3
+INDIGO-POJ-0078,metric-0078,583.28,Improved outcomes for familys in employment and training sector,Youth,769,Family,461,Employment and training,SDG 4,SDG 17,Target 4.2,Target 8.2
+INDIGO-POJ-0079,metric-0079,633.65,Improved outcomes for households in criminal justice sector,Refugees,385,Household,231,Criminal justice,SDG 9,SDG 1,Target 3.3,Target 5.3
+INDIGO-POJ-0080,metric-0080,622.08,Improved outcomes for individuals in housing sector,Refugees,810,Individual,486,Housing,SDG 14,SDG 15,Target 6.2,Target 6.3
+INDIGO-POJ-0081,metric-0081,182.34,Improved outcomes for individuals in housing sector,Women,316,Individual,189,Housing,SDG 14,SDG 16,Target 10.4,Target 7.3
+INDIGO-POJ-0082,metric-0082,889.71,Improved outcomes for households in criminal justice sector,Youth,508,Household,304,Criminal justice,SDG 10,SDG 2,Target 4.4,Target 10.1
+INDIGO-POJ-0083,metric-0083,339.04,Improved outcomes for familys in housing sector,Refugees,606,Family,363,Housing,SDG 14,SDG 6,Target 3.4,Target 9.2
+INDIGO-POJ-0084,metric-0084,216.56,Improved outcomes for households in criminal justice sector,Refugees,832,Household,499,Criminal justice,SDG 13,SDG 14,Target 5.1,Target 7.1
+INDIGO-POJ-0085,metric-0085,899.87,Improved outcomes for individuals in criminal justice sector,Women,722,Individual,433,Criminal justice,SDG 3,SDG 13,Target 5.3,Target 4.3
+INDIGO-POJ-0086,metric-0086,960.09,Improved outcomes for familys in education sector,Women,277,Family,180,Education,SDG 4,SDG 5,Target 5.2,Target 3.5
+INDIGO-POJ-0087,metric-0087,875.91,Improved outcomes for households in employment and training sector,Refugees,257,Household,154,Employment and training,SDG 5,SDG 15,Target 2.4,Target 8.3
+INDIGO-POJ-0088,metric-0088,828.56,Improved outcomes for individuals in employment and training sector,Disabled persons,767,Individual,460,Employment and training,SDG 3,SDG 3,Target 10.5,Target 9.4
+INDIGO-POJ-0089,metric-0089,689.72,Improved outcomes for households in criminal justice sector,Refugees,286,Household,171,Criminal justice,SDG 16,SDG 17,Target 3.1,Target 8.1
+INDIGO-POJ-0090,metric-0090,595.77,Improved outcomes for households in employment and training sector,Youth,862,Household,517,Employment and training,SDG 12,SDG 10,Target 7.4,Target 6.5
+INDIGO-POJ-0091,metric-0091,178.29,Improved outcomes for familys in employment and training sector,Refugees,915,Family,549,Employment and training,SDG 5,SDG 11,Target 2.5,Target 3.3
+INDIGO-POJ-0092,metric-0092,467.61,Improved outcomes for individuals in employment and training sector,Youth,516,Individual,309,Employment and training,SDG 5,SDG 17,Target 2.4,Target 9.3
+INDIGO-POJ-0093,metric-0093,435.42,Improved outcomes for households in education sector,Youth,544,Household,353,Education,SDG 3,SDG 10,Target 2.5,Target 9.5
+INDIGO-POJ-0094,metric-0094,333.78,Improved outcomes for households in housing sector,Refugees,659,Household,395,Housing,SDG 2,SDG 14,Target 6.2,Target 8.5
+INDIGO-POJ-0095,metric-0095,751.08,Improved outcomes for familys in housing sector,Women,341,Family,204,Housing,SDG 10,SDG 13,Target 9.5,Target 7.2
+INDIGO-POJ-0096,metric-0096,546.29,Improved outcomes for households in employment and training sector,Disabled persons,427,Household,256,Employment and training,SDG 3,SDG 6,Target 5.4,Target 9.2
+INDIGO-POJ-0097,metric-0097,172.94,Improved outcomes for individuals in education sector,Youth,865,Individual,562,Education,SDG 13,SDG 3,Target 6.2,Target 1.3
+INDIGO-POJ-0098,metric-0098,298.16,Improved outcomes for households in housing sector,Disabled persons,994,Household,596,Housing,SDG 1,SDG 3,Target 1.3,Target 4.2
+INDIGO-POJ-0099,metric-0099,714.93,Improved outcomes for familys in health sector,Women,347,Family,190,Health,SDG 4,SDG 16,Target 10.5,Target 1.5
+INDIGO-POJ-0100,metric-0100,168.52,Improved outcomes for familys in education sector,Youth,681,Family,442,Education,SDG 3,SDG 17,Target 6.1,Target 9.5
+INDIGO-POJ-0101,metric-0101,866.09,Improved outcomes for familys in employment and training sector,Refugees,546,Family,327,Employment and training,SDG 8,SDG 4,Target 10.3,Target 3.1
+INDIGO-POJ-0102,metric-0102,545.63,Improved outcomes for households in education sector,Women,523,Household,339,Education,SDG 3,SDG 15,Target 1.3,Target 4.1
+INDIGO-POJ-0103,metric-0103,532.53,Improved outcomes for familys in education sector,Refugees,609,Family,395,Education,SDG 10,SDG 12,Target 1.3,Target 5.1
+INDIGO-POJ-0104,metric-0104,633.17,Improved outcomes for individuals in housing sector,Disabled persons,384,Individual,230,Housing,SDG 12,SDG 17,Target 5.1,Target 7.1
+INDIGO-POJ-0105,metric-0105,842.21,Improved outcomes for individuals in housing sector,Refugees,645,Individual,387,Housing,SDG 14,SDG 6,Target 8.3,Target 8.1
+INDIGO-POJ-0106,metric-0106,413.03,Improved outcomes for households in health sector,Refugees,592,Household,325,Health,SDG 5,SDG 15,Target 1.2,Target 2.2
+INDIGO-POJ-0107,metric-0107,710.21,Improved outcomes for households in housing sector,Refugees,316,Household,189,Housing,SDG 3,SDG 5,Target 9.3,Target 7.3
+INDIGO-POJ-0108,metric-0108,609.16,Improved outcomes for individuals in employment and training sector,Youth,275,Individual,165,Employment and training,SDG 15,SDG 7,Target 10.3,Target 8.2
+INDIGO-POJ-0109,metric-0109,340.33,Improved outcomes for individuals in health sector,Women,405,Individual,222,Health,SDG 10,SDG 10,Target 3.2,Target 6.5
+INDIGO-POJ-0110,metric-0110,890.77,Improved outcomes for individuals in housing sector,Disabled persons,788,Individual,472,Housing,SDG 5,SDG 3,Target 2.3,Target 7.4
+INDIGO-POJ-0111,metric-0111,817.68,Improved outcomes for individuals in criminal justice sector,Disabled persons,256,Individual,153,Criminal justice,SDG 12,SDG 5,Target 9.5,Target 3.2
+INDIGO-POJ-0112,metric-0112,692.61,Improved outcomes for individuals in criminal justice sector,Women,510,Individual,306,Criminal justice,SDG 10,SDG 3,Target 5.2,Target 9.3
+INDIGO-POJ-0113,metric-0113,865.52,Improved outcomes for individuals in education sector,Refugees,415,Individual,269,Education,SDG 11,SDG 2,Target 1.1,Target 1.5
+INDIGO-POJ-0114,metric-0114,880.56,Improved outcomes for individuals in employment and training sector,Youth,650,Individual,390,Employment and training,SDG 16,SDG 8,Target 7.3,Target 8.1
+INDIGO-POJ-0116,metric-0116,737.53,Improved outcomes for familys in employment and training sector,Youth,447,Family,268,Employment and training,SDG 12,SDG 13,Target 3.3,Target 9.5
+INDIGO-POJ-0117,metric-0117,853.31,Improved outcomes for individuals in employment and training sector,Refugees,981,Individual,588,Employment and training,SDG 13,SDG 14,Target 4.2,Target 6.5
+INDIGO-POJ-0118,metric-0118,727.72,Improved outcomes for individuals in health sector,Refugees,251,Individual,138,Health,SDG 3,SDG 13,Target 9.4,Target 4.2
+INDIGO-POJ-0119,metric-0119,712.13,Improved outcomes for individuals in criminal justice sector,Disabled persons,246,Individual,147,Criminal justice,SDG 1,SDG 4,Target 7.2,Target 5.3
+INDIGO-POJ-0120,metric-0120,656.75,Improved outcomes for households in health sector,Youth,299,Household,164,Health,SDG 13,SDG 17,Target 8.5,Target 5.5
+INDIGO-POJ-0121,metric-0121,777.44,Improved outcomes for households in education sector,Women,541,Household,351,Education,SDG 17,SDG 13,Target 9.1,Target 1.1
+INDIGO-POJ-0122,metric-0122,242.74,Improved outcomes for familys in education sector,Disabled persons,776,Family,504,Education,SDG 13,SDG 10,Target 10.3,Target 9.5
+INDIGO-POJ-0123,metric-0123,892.78,Improved outcomes for households in criminal justice sector,Women,252,Household,151,Criminal justice,SDG 10,SDG 1,Target 10.4,Target 5.5
+INDIGO-POJ-0124,metric-0124,884.66,Improved outcomes for familys in education sector,Disabled persons,622,Family,404,Education,SDG 2,SDG 4,Target 4.1,Target 8.3
+INDIGO-POJ-0126,metric-0126,126.32,Improved outcomes for households in criminal justice sector,Women,745,Household,447,Criminal justice,SDG 7,SDG 11,Target 8.5,Target 7.3
+INDIGO-POJ-0127,metric-0127,843.24,Improved outcomes for households in education sector,Refugees,412,Household,267,Education,SDG 8,SDG 9,Target 9.3,Target 4.3
+INDIGO-POJ-0128,metric-0128,215.98,Improved outcomes for households in health sector,Refugees,280,Household,153,Health,SDG 13,SDG 13,Target 6.2,Target 5.1
+INDIGO-POJ-0129,metric-0129,401.61,Improved outcomes for households in criminal justice sector,Women,885,Household,531,Criminal justice,SDG 9,SDG 5,Target 2.5,Target 10.2
+INDIGO-POJ-0130,metric-0130,769.16,Improved outcomes for familys in housing sector,Disabled persons,866,Family,519,Housing,SDG 4,SDG 5,Target 1.5,Target 3.4
+INDIGO-POJ-0131,metric-0131,244.68,Improved outcomes for individuals in criminal justice sector,Disabled persons,966,Individual,579,Criminal justice,SDG 2,SDG 6,Target 7.2,Target 1.4
+INDIGO-POJ-0132,metric-0132,836.17,Improved outcomes for familys in employment and training sector,Refugees,315,Family,189,Employment and training,SDG 15,SDG 17,Target 8.2,Target 9.4
+INDIGO-POJ-0133,metric-0133,848.92,Improved outcomes for individuals in employment and training sector,Refugees,610,Individual,366,Employment and training,SDG 10,SDG 7,Target 3.5,Target 7.4
+INDIGO-POJ-0134,metric-0134,556.72,Improved outcomes for households in health sector,Refugees,940,Household,516,Health,SDG 9,SDG 13,Target 4.4,Target 5.3
+INDIGO-POJ-0135,metric-0135,105.75,Improved outcomes for households in health sector,Youth,502,Household,276,Health,SDG 15,SDG 10,Target 3.4,Target 9.3
+INDIGO-POJ-0136,metric-0136,358.33,Improved outcomes for individuals in criminal justice sector,Women,972,Individual,583,Criminal justice,SDG 12,SDG 14,Target 9.4,Target 9.2
+INDIGO-POJ-0137,metric-0137,655.23,Improved outcomes for individuals in criminal justice sector,Women,535,Individual,321,Criminal justice,SDG 4,SDG 2,Target 9.5,Target 4.5
+INDIGO-POJ-0138,metric-0138,983.07,Improved outcomes for individuals in criminal justice sector,Disabled persons,259,Individual,155,Criminal justice,SDG 15,SDG 2,Target 8.2,Target 9.4
+INDIGO-POJ-0139,metric-0139,668.63,Improved outcomes for households in health sector,Youth,683,Household,375,Health,SDG 7,SDG 3,Target 1.4,Target 6.1
+INDIGO-POJ-0140,metric-0140,333.82,Improved outcomes for familys in housing sector,Refugees,382,Family,229,Housing,SDG 15,SDG 13,Target 7.1,Target 9.2
+INDIGO-POJ-0141,metric-0141,670.61,Improved outcomes for individuals in housing sector,Women,393,Individual,235,Housing,SDG 14,SDG 13,Target 4.2,Target 8.3
+INDIGO-POJ-0142,metric-0142,585.99,Improved outcomes for familys in education sector,Youth,958,Family,622,Education,SDG 7,SDG 3,Target 2.5,Target 1.4
+INDIGO-POJ-0143,metric-0143,801.86,Improved outcomes for households in criminal justice sector,Refugees,509,Household,305,Criminal justice,SDG 10,SDG 8,Target 10.3,Target 10.5
+INDIGO-POJ-0144,metric-0144,196.28,Improved outcomes for individuals in housing sector,Disabled persons,352,Individual,211,Housing,SDG 16,SDG 2,Target 6.4,Target 9.3
+INDIGO-POJ-0145,metric-0145,784.93,Improved outcomes for familys in employment and training sector,Women,448,Family,268,Employment and training,SDG 5,SDG 15,Target 1.5,Target 7.4
+INDIGO-POJ-0146,metric-0146,587.14,Improved outcomes for households in criminal justice sector,Youth,392,Household,235,Criminal justice,SDG 7,SDG 2,Target 5.4,Target 10.5
+INDIGO-POJ-0147,metric-0147,966.69,Improved outcomes for households in education sector,Women,529,Household,343,Education,SDG 4,SDG 16,Target 4.5,Target 4.4
+INDIGO-POJ-0148,metric-0148,407.68,Improved outcomes for familys in employment and training sector,Refugees,579,Family,347,Employment and training,SDG 12,SDG 17,Target 8.4,Target 2.4
+INDIGO-POJ-0149,metric-0149,669.36,Improved outcomes for familys in criminal justice sector,Disabled persons,451,Family,270,Criminal justice,SDG 14,SDG 10,Target 3.2,Target 6.2
+INDIGO-POJ-0150,metric-0150,938.83,Improved outcomes for households in education sector,Youth,234,Household,152,Education,SDG 12,SDG 6,Target 3.5,Target 8.2
+INDIGO-POJ-0151,metric-0151,192.26,Improved outcomes for individuals in education sector,Disabled persons,699,Individual,454,Education,SDG 1,SDG 7,Target 9.4,Target 6.1
+INDIGO-POJ-0152,metric-0152,943.51,Improved outcomes for households in criminal justice sector,Youth,352,Household,211,Criminal justice,SDG 10,SDG 1,Target 9.4,Target 3.1
+INDIGO-POJ-0153,metric-0153,719.1,Improved outcomes for familys in health sector,Refugees,282,Family,155,Health,SDG 12,SDG 13,Target 8.5,Target 4.2
+INDIGO-POJ-0154,metric-0154,161.05,Improved outcomes for households in health sector,Youth,243,Household,133,Health,SDG 1,SDG 6,Target 2.4,Target 7.3
+INDIGO-POJ-0155,metric-0155,370.87,Improved outcomes for individuals in health sector,Refugees,412,Individual,226,Health,SDG 3,SDG 9,Target 9.5,Target 1.2
+INDIGO-POJ-0156,metric-0156,737.35,Improved outcomes for households in education sector,Youth,963,Household,625,Education,SDG 8,SDG 13,Target 9.3,Target 7.2
+INDIGO-POJ-0157,metric-0157,160.62,Improved outcomes for individuals in employment and training sector,Disabled persons,390,Individual,234,Employment and training,SDG 1,SDG 9,Target 8.4,Target 4.3
+INDIGO-POJ-0158,metric-0158,623.95,Improved outcomes for familys in health sector,Refugees,293,Family,161,Health,SDG 9,SDG 5,Target 7.2,Target 7.3
+INDIGO-POJ-0159,metric-0159,411.29,Improved outcomes for individuals in education sector,Youth,291,Individual,189,Education,SDG 14,SDG 15,Target 9.5,Target 9.4
+INDIGO-POJ-0160,metric-0160,658.82,Improved outcomes for individuals in housing sector,Women,589,Individual,353,Housing,SDG 13,SDG 3,Target 9.2,Target 10.5
+INDIGO-POJ-0161,metric-0161,141.17,Improved outcomes for households in education sector,Refugees,452,Household,293,Education,SDG 14,SDG 9,Target 7.3,Target 8.1
+INDIGO-POJ-0162,metric-0162,884.38,Improved outcomes for individuals in employment and training sector,Disabled persons,640,Individual,384,Employment and training,SDG 1,SDG 13,Target 6.5,Target 7.3
+INDIGO-POJ-0163,metric-0163,976.14,Improved outcomes for individuals in employment and training sector,Women,585,Individual,351,Employment and training,SDG 6,SDG 13,Target 6.3,Target 8.5
+INDIGO-POJ-0164,metric-0164,971.99,Improved outcomes for households in criminal justice sector,Disabled persons,711,Household,426,Criminal justice,SDG 1,SDG 15,Target 4.4,Target 5.1
+INDIGO-POJ-0165,metric-0165,774.69,Improved outcomes for individuals in health sector,Disabled persons,237,Individual,130,Health,SDG 15,SDG 16,Target 10.4,Target 9.5
+INDIGO-POJ-0166,metric-0166,217.08,Improved outcomes for households in criminal justice sector,Youth,427,Household,256,Criminal justice,SDG 2,SDG 13,Target 6.4,Target 2.1
+INDIGO-POJ-0167,metric-0167,782.44,Improved outcomes for familys in employment and training sector,Youth,345,Family,207,Employment and training,SDG 1,SDG 16,Target 2.3,Target 7.1
+INDIGO-POJ-0168,metric-0168,122.13,Improved outcomes for individuals in housing sector,Youth,317,Individual,190,Housing,SDG 4,SDG 15,Target 8.3,Target 2.3
+INDIGO-POJ-0169,metric-0169,119.91,Improved outcomes for individuals in criminal justice sector,Disabled persons,388,Individual,232,Criminal justice,SDG 6,SDG 11,Target 9.4,Target 8.2
+INDIGO-POJ-0170,metric-0170,391.25,Improved outcomes for households in housing sector,Youth,391,Household,234,Housing,SDG 1,SDG 7,Target 4.3,Target 2.5
+INDIGO-POJ-0171,metric-0171,539.78,Improved outcomes for households in criminal justice sector,Disabled persons,376,Household,225,Criminal justice,SDG 13,SDG 13,Target 10.1,Target 6.3
+INDIGO-POJ-0172,metric-0172,793.37,Improved outcomes for individuals in health sector,Disabled persons,810,Individual,445,Health,SDG 8,SDG 10,Target 2.2,Target 6.2
+INDIGO-POJ-0173,metric-0173,714.97,Improved outcomes for households in criminal justice sector,Disabled persons,254,Household,152,Criminal justice,SDG 6,SDG 16,Target 5.2,Target 3.3
+INDIGO-POJ-0174,metric-0174,501.31,Improved outcomes for households in housing sector,Youth,499,Household,299,Housing,SDG 16,SDG 14,Target 8.4,Target 3.1
+INDIGO-POJ-0175,metric-0175,346.26,Improved outcomes for individuals in criminal justice sector,Refugees,974,Individual,584,Criminal justice,SDG 17,SDG 4,Target 10.1,Target 5.5
+INDIGO-POJ-0176,metric-0176,997.41,Improved outcomes for households in health sector,Women,955,Household,525,Health,SDG 15,SDG 9,Target 6.1,Target 8.1
+INDIGO-POJ-0177,metric-0177,483.56,Improved outcomes for households in criminal justice sector,Refugees,751,Household,450,Criminal justice,SDG 5,SDG 7,Target 4.1,Target 10.3
+INDIGO-POJ-0178,metric-0178,506.25,Improved outcomes for households in criminal justice sector,Women,349,Household,209,Criminal justice,SDG 4,SDG 5,Target 7.1,Target 5.2
+INDIGO-POJ-0179,metric-0179,247.26,Improved outcomes for familys in criminal justice sector,Disabled persons,967,Family,580,Criminal justice,SDG 9,SDG 14,Target 7.4,Target 2.1
+INDIGO-POJ-0180,metric-0180,815.33,Improved outcomes for households in health sector,Disabled persons,706,Household,388,Health,SDG 15,SDG 12,Target 2.5,Target 7.2
+INDIGO-POJ-0181,metric-0181,724.31,Improved outcomes for individuals in criminal justice sector,Youth,361,Individual,216,Criminal justice,SDG 16,SDG 11,Target 1.1,Target 2.4
+INDIGO-POJ-0182,metric-0182,298.69,Improved outcomes for households in education sector,Women,605,Household,393,Education,SDG 9,SDG 3,Target 6.3,Target 2.3
+INDIGO-POJ-0183,metric-0183,174.14,Improved outcomes for households in health sector,Disabled persons,208,Household,114,Health,SDG 7,SDG 16,Target 2.2,Target 10.2
+INDIGO-POJ-0184,metric-0184,712.45,Improved outcomes for familys in health sector,Refugees,340,Family,186,Health,SDG 8,SDG 13,Target 2.1,Target 2.3
+INDIGO-POJ-0188,metric-0188,689.06,Improved outcomes for households in criminal justice sector,Disabled persons,288,Household,172,Criminal justice,SDG 6,SDG 15,Target 6.2,Target 3.4
+INDIGO-POJ-0189,metric-0189,345.93,Improved outcomes for familys in employment and training sector,Refugees,227,Family,136,Employment and training,SDG 5,SDG 8,Target 5.1,Target 4.5
+INDIGO-POJ-0190,metric-0190,955.78,Improved outcomes for households in employment and training sector,Disabled persons,808,Household,484,Employment and training,SDG 2,SDG 8,Target 8.4,Target 2.2
+INDIGO-POJ-0191,metric-0191,235.95,Improved outcomes for households in employment and training sector,Youth,420,Household,252,Employment and training,SDG 6,SDG 16,Target 2.1,Target 10.1
+INDIGO-POJ-0192,metric-0192,489.1,Improved outcomes for familys in housing sector,Refugees,517,Family,310,Housing,SDG 13,SDG 3,Target 9.5,Target 10.2
+INDIGO-POJ-0193,metric-0193,949.25,Improved outcomes for individuals in criminal justice sector,Youth,318,Individual,190,Criminal justice,SDG 3,SDG 10,Target 7.2,Target 1.2
+INDIGO-POJ-0194,metric-0194,477.75,Improved outcomes for individuals in education sector,Refugees,580,Individual,377,Education,SDG 1,SDG 6,Target 8.3,Target 9.5
+INDIGO-POJ-0195,metric-0195,674.67,Improved outcomes for individuals in employment and training sector,Disabled persons,568,Individual,340,Employment and training,SDG 17,SDG 3,Target 5.5,Target 2.4
+INDIGO-POJ-0196,metric-0196,457.83,Improved outcomes for households in health sector,Women,683,Household,375,Health,SDG 4,SDG 8,Target 9.1,Target 1.1
+INDIGO-POJ-0197,metric-0197,346.79,Improved outcomes for familys in education sector,Refugees,714,Family,464,Education,SDG 11,SDG 8,Target 7.3,Target 5.1
+INDIGO-POJ-0198,metric-0198,985.58,Improved outcomes for households in housing sector,Youth,405,Household,243,Housing,SDG 10,SDG 10,Target 6.1,Target 9.4
+INDIGO-POJ-0199,metric-0199,468.4,Improved outcomes for familys in education sector,Refugees,910,Family,591,Education,SDG 8,SDG 5,Target 1.4,Target 1.2
+INDIGO-POJ-0200,metric-0200,904.69,Improved outcomes for households in education sector,Refugees,244,Household,158,Education,SDG 17,SDG 8,Target 7.4,Target 1.2
+INDIGO-POJ-0201,metric-0201,306.96,Improved outcomes for individuals in criminal justice sector,Disabled persons,333,Individual,199,Criminal justice,SDG 5,SDG 13,Target 2.5,Target 10.1
+INDIGO-POJ-0202,metric-0202,291.79,Improved outcomes for households in housing sector,Youth,308,Household,184,Housing,SDG 9,SDG 8,Target 2.2,Target 3.5
+INDIGO-POJ-0203,metric-0203,128.02,Improved outcomes for households in education sector,Women,511,Household,332,Education,SDG 15,SDG 10,Target 8.3,Target 2.1
+INDIGO-POJ-0204,metric-0204,686.5,Improved outcomes for familys in employment and training sector,Youth,663,Family,397,Employment and training,SDG 13,SDG 17,Target 1.3,Target 5.2
+INDIGO-POJ-0205,metric-0205,431.67,Improved outcomes for familys in health sector,Refugees,222,Family,122,Health,SDG 8,SDG 5,Target 4.4,Target 6.1
+INDIGO-POJ-0206,metric-0206,877.92,Improved outcomes for familys in health sector,Disabled persons,230,Family,126,Health,SDG 2,SDG 15,Target 1.2,Target 10.4
+INDIGO-POJ-0207,metric-0207,525.89,Improved outcomes for households in housing sector,Refugees,621,Household,372,Housing,SDG 5,SDG 2,Target 10.5,Target 10.2
+INDIGO-POJ-0209,metric-0209,971.37,Improved outcomes for familys in education sector,Disabled persons,1000,Family,650,Education,SDG 17,SDG 8,Target 9.1,Target 7.3
+INDIGO-POJ-0210,metric-0210,266.97,Improved outcomes for familys in education sector,Youth,742,Family,482,Education,SDG 1,SDG 11,Target 10.2,Target 1.3
+INDIGO-POJ-0211,metric-0211,881.76,Improved outcomes for familys in criminal justice sector,Women,806,Family,483,Criminal justice,SDG 2,SDG 8,Target 10.4,Target 6.2
+INDIGO-POJ-0212,metric-0212,798.94,Improved outcomes for households in criminal justice sector,Youth,257,Household,154,Criminal justice,SDG 7,SDG 16,Target 9.3,Target 3.4
+INDIGO-POJ-0213,metric-0213,793.83,Improved outcomes for familys in education sector,Women,738,Family,479,Education,SDG 11,SDG 6,Target 6.1,Target 1.2
+INDIGO-POJ-0214,metric-0214,860.3,Improved outcomes for households in employment and training sector,Refugees,924,Household,554,Employment and training,SDG 10,SDG 11,Target 3.2,Target 7.4
+INDIGO-POJ-0215,metric-0215,784.92,Improved outcomes for familys in employment and training sector,Youth,816,Family,489,Employment and training,SDG 5,SDG 6,Target 1.5,Target 7.5
+INDIGO-POJ-0216,metric-0216,663.6,Improved outcomes for households in health sector,Disabled persons,471,Household,259,Health,SDG 8,SDG 12,Target 6.2,Target 2.3
+INDIGO-POJ-0217,metric-0217,218.12,Improved outcomes for individuals in health sector,Disabled persons,759,Individual,417,Health,SDG 13,SDG 15,Target 7.2,Target 7.4
+INDIGO-POJ-0218,metric-0218,129.27,Improved outcomes for households in housing sector,Youth,550,Household,330,Housing,SDG 3,SDG 2,Target 5.1,Target 6.3
+INDIGO-POJ-0219,metric-0219,928.76,Improved outcomes for households in criminal justice sector,Women,303,Household,181,Criminal justice,SDG 16,SDG 1,Target 7.2,Target 10.4
+INDIGO-POJ-0220,metric-0220,654.99,Improved outcomes for individuals in employment and training sector,Disabled persons,255,Individual,153,Employment and training,SDG 10,SDG 8,Target 2.1,Target 7.5
+INDIGO-POJ-0221,metric-0221,816.88,Improved outcomes for familys in education sector,Disabled persons,515,Family,334,Education,SDG 4,SDG 1,Target 4.2,Target 5.1
+INDIGO-POJ-0222,metric-0222,533.37,Improved outcomes for households in education sector,Refugees,676,Household,439,Education,SDG 12,SDG 13,Target 6.2,Target 8.1
+INDIGO-POJ-0223,metric-0223,205.58,Improved outcomes for households in health sector,Disabled persons,628,Household,345,Health,SDG 12,SDG 14,Target 10.2,Target 9.1
+INDIGO-POJ-0224,metric-0224,212.67,Improved outcomes for familys in housing sector,Women,975,Family,585,Housing,SDG 2,SDG 17,Target 10.5,Target 10.5
+INDIGO-POJ-0225,metric-0225,717.01,Improved outcomes for familys in health sector,Refugees,944,Family,519,Health,SDG 14,SDG 3,Target 7.2,Target 3.5
+INDIGO-POJ-0226,metric-0226,487.28,Improved outcomes for familys in criminal justice sector,Youth,353,Family,211,Criminal justice,SDG 15,SDG 1,Target 10.5,Target 9.4
+INDIGO-POJ-0227,metric-0227,280.47,Improved outcomes for familys in housing sector,Youth,482,Family,289,Housing,SDG 9,SDG 13,Target 8.5,Target 10.4
+INDIGO-POJ-0228,metric-0228,542.44,Improved outcomes for familys in housing sector,Youth,510,Family,306,Housing,SDG 11,SDG 8,Target 1.4,Target 5.3
+INDIGO-POJ-0229,metric-0229,157.79,Improved outcomes for individuals in education sector,Youth,652,Individual,423,Education,SDG 10,SDG 15,Target 6.3,Target 7.5
+INDIGO-POJ-0231,metric-0231,623.77,Improved outcomes for households in health sector,Youth,397,Household,218,Health,SDG 10,SDG 17,Target 7.2,Target 9.5
+INDIGO-POJ-0232,metric-0232,342.09,Improved outcomes for individuals in employment and training sector,Women,700,Individual,420,Employment and training,SDG 12,SDG 15,Target 9.4,Target 2.1
+INDIGO-POJ-0233,metric-0233,817.8,Improved outcomes for familys in employment and training sector,Youth,785,Family,471,Employment and training,SDG 6,SDG 9,Target 2.3,Target 1.4
+INDIGO-POJ-0234,metric-0234,379.33,Improved outcomes for households in housing sector,Youth,458,Household,274,Housing,SDG 17,SDG 1,Target 1.4,Target 3.2
+INDIGO-POJ-0235,metric-0235,509.7,Improved outcomes for individuals in housing sector,Disabled persons,304,Individual,182,Housing,SDG 12,SDG 15,Target 5.2,Target 8.3
+INDIGO-POJ-0236,metric-0236,110.46,Improved outcomes for households in health sector,Refugees,928,Household,510,Health,SDG 16,SDG 3,Target 6.3,Target 6.3
+INDIGO-POJ-0237,metric-0237,165.2,Improved outcomes for individuals in employment and training sector,Disabled persons,954,Individual,572,Employment and training,SDG 5,SDG 1,Target 8.3,Target 5.4
+INDIGO-POJ-0238,metric-0238,453.24,Improved outcomes for familys in employment and training sector,Youth,331,Family,198,Employment and training,SDG 17,SDG 10,Target 3.5,Target 3.3
+INDIGO-POJ-0239,metric-0239,531.94,Improved outcomes for individuals in education sector,Refugees,501,Individual,325,Education,SDG 12,SDG 8,Target 5.4,Target 6.3
+INDIGO-POJ-0240,metric-0240,640.02,Improved outcomes for familys in housing sector,Disabled persons,354,Family,212,Housing,SDG 7,SDG 17,Target 2.4,Target 9.3
+INDIGO-POJ-0241,metric-0241,362.5,Improved outcomes for individuals in education sector,Youth,480,Individual,312,Education,SDG 3,SDG 16,Target 6.2,Target 6.1
+INDIGO-POJ-0242,metric-0242,725.48,Improved outcomes for individuals in criminal justice sector,Youth,746,Individual,447,Criminal justice,SDG 14,SDG 14,Target 7.4,Target 8.4
+INDIGO-POJ-0243,metric-0243,874.11,Improved outcomes for familys in health sector,Disabled persons,802,Family,441,Health,SDG 8,SDG 8,Target 6.3,Target 3.1
+INDIGO-POJ-0244,metric-0244,801.87,Improved outcomes for individuals in criminal justice sector,Refugees,368,Individual,220,Criminal justice,SDG 17,SDG 11,Target 7.2,Target 6.4
+INDIGO-POJ-0245,metric-0245,135.66,Improved outcomes for households in health sector,Youth,249,Household,136,Health,SDG 12,SDG 2,Target 7.3,Target 9.5
+INDIGO-POJ-0246,metric-0246,532.46,Improved outcomes for familys in housing sector,Women,902,Family,541,Housing,SDG 13,SDG 4,Target 9.3,Target 8.2
+INDIGO-POJ-0247,metric-0247,194.44,Improved outcomes for households in criminal justice sector,Refugees,308,Household,184,Criminal justice,SDG 5,SDG 14,Target 2.5,Target 10.1
+INDIGO-POJ-0248,metric-0248,317.84,Improved outcomes for households in housing sector,Disabled persons,440,Household,264,Housing,SDG 10,SDG 6,Target 1.5,Target 8.2
+INDIGO-POJ-0249,metric-0249,988.0,Improved outcomes for households in health sector,Refugees,675,Household,371,Health,SDG 17,SDG 3,Target 2.3,Target 4.4
+INDIGO-POJ-0250,metric-0250,228.25,Improved outcomes for households in housing sector,Refugees,648,Household,388,Housing,SDG 4,SDG 4,Target 1.1,Target 3.2
+INDIGO-POJ-0251,metric-0251,549.0,Improved outcomes for households in health sector,Disabled persons,370,Household,203,Health,SDG 13,SDG 13,Target 8.3,Target 7.4
+INDIGO-POJ-0252,metric-0252,656.34,Improved outcomes for individuals in criminal justice sector,Youth,944,Individual,566,Criminal justice,SDG 16,SDG 15,Target 3.5,Target 7.3
+INDIGO-POJ-0253,metric-0253,732.22,Improved outcomes for individuals in health sector,Women,546,Individual,300,Health,SDG 9,SDG 11,Target 1.5,Target 10.5
+INDIGO-POJ-0254,metric-0254,603.68,Improved outcomes for individuals in education sector,Women,969,Individual,629,Education,SDG 2,SDG 1,Target 3.5,Target 8.4
+INDIGO-POJ-0259,metric-0259,108.79,Improved outcomes for familys in criminal justice sector,Disabled persons,710,Family,426,Criminal justice,SDG 13,SDG 13,Target 4.1,Target 8.4
+INDIGO-POJ-0260,metric-0260,393.82,Improved outcomes for familys in housing sector,Refugees,775,Family,465,Housing,SDG 14,SDG 2,Target 9.5,Target 1.1
+INDIGO-POJ-0261,metric-0261,565.94,Improved outcomes for individuals in employment and training sector,Youth,563,Individual,337,Employment and training,SDG 16,SDG 12,Target 8.1,Target 2.2
+INDIGO-POJ-0262,metric-0262,179.08,Improved outcomes for individuals in education sector,Women,323,Individual,209,Education,SDG 16,SDG 5,Target 7.1,Target 5.5
+INDIGO-POJ-0263,metric-0263,415.56,Improved outcomes for familys in health sector,Disabled persons,743,Family,408,Health,SDG 4,SDG 15,Target 8.5,Target 9.2
+INDIGO-POJ-0264,metric-0264,129.88,Improved outcomes for familys in criminal justice sector,Refugees,593,Family,355,Criminal justice,SDG 6,SDG 5,Target 2.4,Target 10.5
+INDIGO-POJ-0265,metric-0265,170.72,Improved outcomes for households in education sector,Women,414,Household,269,Education,SDG 14,SDG 17,Target 5.5,Target 6.5
+INDIGO-POJ-0266,metric-0266,457.23,Improved outcomes for individuals in health sector,Refugees,213,Individual,117,Health,SDG 12,SDG 16,Target 10.5,Target 7.5
+INDIGO-POJ-0267,metric-0267,219.44,Improved outcomes for individuals in employment and training sector,Women,233,Individual,139,Employment and training,SDG 6,SDG 10,Target 5.2,Target 1.3
+INDIGO-POJ-0268,metric-0268,610.79,Improved outcomes for familys in education sector,Refugees,255,Family,165,Education,SDG 17,SDG 10,Target 1.4,Target 7.4
+INDIGO-POJ-0269,metric-0269,720.52,Improved outcomes for familys in education sector,Youth,241,Family,156,Education,SDG 10,SDG 15,Target 3.1,Target 3.2
+INDIGO-POJ-0270,metric-0270,820.53,Improved outcomes for individuals in health sector,Youth,830,Individual,456,Health,SDG 11,SDG 15,Target 3.1,Target 3.3
+INDIGO-POJ-0271,metric-0271,280.14,Improved outcomes for households in employment and training sector,Women,756,Household,453,Employment and training,SDG 17,SDG 8,Target 3.5,Target 2.5
+INDIGO-POJ-0272,metric-0272,250.73,Improved outcomes for familys in employment and training sector,Youth,884,Family,530,Employment and training,SDG 10,SDG 7,Target 10.5,Target 8.5
+INDIGO-POJ-0273,metric-0273,194.11,Improved outcomes for households in health sector,Refugees,729,Household,400,Health,SDG 11,SDG 13,Target 2.4,Target 5.5
+INDIGO-POJ-0274,metric-0274,672.79,Improved outcomes for individuals in employment and training sector,Youth,267,Individual,160,Employment and training,SDG 7,SDG 11,Target 9.1,Target 2.2
+INDIGO-POJ-0275,metric-0275,735.83,Improved outcomes for households in health sector,Youth,382,Household,210,Health,SDG 5,SDG 1,Target 8.3,Target 1.1
+INDIGO-POJ-0276,metric-0276,128.43,Improved outcomes for individuals in housing sector,Youth,937,Individual,562,Housing,SDG 13,SDG 14,Target 6.1,Target 7.1
+INDIGO-POJ-0280,metric-0280,942.59,Improved outcomes for households in criminal justice sector,Disabled persons,604,Household,362,Criminal justice,SDG 4,SDG 10,Target 5.5,Target 2.3
+INDIGO-POJ-0281,metric-0281,146.77,Improved outcomes for familys in criminal justice sector,Women,242,Family,145,Criminal justice,SDG 10,SDG 5,Target 5.3,Target 1.5
+INDIGO-POJ-0282,metric-0282,587.17,Improved outcomes for familys in education sector,Refugees,317,Family,206,Education,SDG 14,SDG 17,Target 3.2,Target 3.2
+INDIGO-POJ-0283,metric-0283,738.15,Improved outcomes for individuals in employment and training sector,Refugees,331,Individual,198,Employment and training,SDG 3,SDG 9,Target 2.2,Target 10.4
+INDIGO-POJ-0284,metric-0284,883.87,Improved outcomes for familys in housing sector,Refugees,638,Family,382,Housing,SDG 15,SDG 11,Target 10.3,Target 10.2
+INDIGO-POJ-0285,metric-0285,742.68,Improved outcomes for households in employment and training sector,Refugees,764,Household,458,Employment and training,SDG 5,SDG 11,Target 8.4,Target 8.3
+INDIGO-POJ-0286,metric-0286,821.56,Improved outcomes for households in employment and training sector,Disabled persons,417,Household,250,Employment and training,SDG 3,SDG 3,Target 1.5,Target 1.5
+INDIGO-POJ-0287,metric-0287,405.51,Improved outcomes for households in housing sector,Youth,572,Household,343,Housing,SDG 8,SDG 10,Target 3.4,Target 9.5
+INDIGO-POJ-0288,metric-0288,833.34,Improved outcomes for individuals in housing sector,Refugees,424,Individual,254,Housing,SDG 6,SDG 6,Target 10.5,Target 3.4
+INDIGO-POJ-0289,metric-0289,172.1,Improved outcomes for households in education sector,Youth,531,Household,345,Education,SDG 17,SDG 12,Target 7.4,Target 8.1
+INDIGO-POJ-0290,metric-0290,905.33,Improved outcomes for households in housing sector,Disabled persons,728,Household,436,Housing,SDG 13,SDG 12,Target 10.1,Target 9.3
+INDIGO-POJ-0291,metric-0291,592.83,Improved outcomes for familys in criminal justice sector,Refugees,353,Family,211,Criminal justice,SDG 5,SDG 15,Target 3.2,Target 2.5
+INDIGO-POJ-0295,metric-0295,835.57,Improved outcomes for individuals in employment and training sector,Women,620,Individual,372,Employment and training,SDG 4,SDG 16,Target 8.4,Target 4.5
+INDIGO-POJ-0299,metric-0299,507.09,Improved outcomes for households in criminal justice sector,Disabled persons,777,Household,466,Criminal justice,SDG 2,SDG 5,Target 1.2,Target 5.2
+INDIGO-POJ-0300,metric-0300,679.22,Improved outcomes for households in housing sector,Women,985,Household,591,Housing,SDG 16,SDG 16,Target 3.2,Target 7.5
+INDIGO-POJ-0301,metric-0301,573.76,Improved outcomes for familys in education sector,Disabled persons,820,Family,533,Education,SDG 13,SDG 13,Target 3.1,Target 1.2
+INDIGO-POJ-0302,metric-0302,758.43,Improved outcomes for individuals in health sector,Disabled persons,244,Individual,134,Health,SDG 16,SDG 5,Target 10.5,Target 1.4
+INDIGO-POJ-0304,metric-0304,173.47,Improved outcomes for individuals in housing sector,Disabled persons,393,Individual,235,Housing,SDG 5,SDG 9,Target 8.2,Target 2.3
+INDIGO-POJ-0305,metric-0305,154.32,Improved outcomes for familys in education sector,Refugees,748,Family,486,Education,SDG 11,SDG 14,Target 6.1,Target 3.4
+INDIGO-POJ-0306,metric-0306,322.39,Improved outcomes for familys in criminal justice sector,Refugees,791,Family,474,Criminal justice,SDG 16,SDG 6,Target 6.5,Target 9.4
+INDIGO-POJ-0308,metric-0308,243.59,Improved outcomes for familys in education sector,Youth,598,Family,388,Education,SDG 4,SDG 7,Target 9.4,Target 6.5
+INDIGO-POJ-0309,metric-0309,884.61,Improved outcomes for familys in health sector,Youth,593,Family,326,Health,SDG 3,SDG 9,Target 4.3,Target 2.5
+INDIGO-POJ-0311,metric-0311,297.29,Improved outcomes for individuals in housing sector,Women,373,Individual,223,Housing,SDG 1,SDG 7,Target 9.3,Target 4.1
+INDIGO-POJ-0312,metric-0312,978.28,Improved outcomes for individuals in employment and training sector,Youth,920,Individual,552,Employment and training,SDG 13,SDG 12,Target 7.4,Target 10.2
+INDIGO-POJ-0313,metric-0313,403.21,Improved outcomes for households in employment and training sector,Refugees,616,Household,369,Employment and training,SDG 8,SDG 7,Target 8.4,Target 10.1
+INDIGO-POJ-0314,metric-0314,263.91,Improved outcomes for households in criminal justice sector,Women,994,Household,596,Criminal justice,SDG 9,SDG 9,Target 8.4,Target 10.4
+INDIGO-POJ-0315,metric-0315,810.73,Improved outcomes for households in health sector,Youth,469,Household,257,Health,SDG 13,SDG 8,Target 4.3,Target 7.3
+INDIGO-POJ-0316,metric-0316,692.84,Improved outcomes for individuals in housing sector,Women,954,Individual,572,Housing,SDG 11,SDG 12,Target 4.5,Target 5.2
+INDIGO-POJ-0317,metric-0317,548.38,Improved outcomes for households in education sector,Youth,243,Household,157,Education,SDG 12,SDG 5,Target 2.1,Target 2.4
+INDIGO-POJ-0318,metric-0318,599.83,Improved outcomes for households in education sector,Youth,633,Household,411,Education,SDG 17,SDG 9,Target 7.2,Target 10.2
+INDIGO-POJ-0319,metric-0319,747.28,Improved outcomes for familys in health sector,Disabled persons,303,Family,166,Health,SDG 17,SDG 15,Target 6.1,Target 1.2
+INDIGO-POJ-0320,metric-0320,305.61,Improved outcomes for individuals in education sector,Disabled persons,415,Individual,269,Education,SDG 9,SDG 16,Target 10.3,Target 6.2
+INDIGO-POJ-0321,metric-0321,996.7,Improved outcomes for familys in criminal justice sector,Disabled persons,400,Family,240,Criminal justice,SDG 5,SDG 8,Target 2.3,Target 4.5
+INDIGO-POJ-0323,metric-0323,977.31,Improved outcomes for households in education sector,Youth,301,Household,195,Education,SDG 17,SDG 11,Target 8.3,Target 5.5
+INDIGO-POJ-0324,metric-0324,685.29,Improved outcomes for individuals in employment and training sector,Refugees,621,Individual,372,Employment and training,SDG 9,SDG 12,Target 6.5,Target 9.3
+INDIGO-POJ-0325,metric-0325,279.59,Improved outcomes for familys in employment and training sector,Disabled persons,493,Family,295,Employment and training,SDG 12,SDG 11,Target 9.4,Target 8.1
+INDIGO-POJ-0326,metric-0326,712.21,Improved outcomes for households in health sector,Refugees,473,Household,260,Health,SDG 3,SDG 6,Target 6.2,Target 6.3
+INDIGO-POJ-0327,metric-0327,164.98,Improved outcomes for households in housing sector,Youth,370,Household,222,Housing,SDG 6,SDG 6,Target 1.2,Target 4.3
+INDIGO-POJ-0328,metric-0328,127.59,Improved outcomes for individuals in housing sector,Youth,599,Individual,359,Housing,SDG 17,SDG 3,Target 2.3,Target 10.2
+INDIGO-POJ-0329,metric-0329,331.91,Improved outcomes for familys in criminal justice sector,Disabled persons,478,Family,286,Criminal justice,SDG 6,SDG 1,Target 1.3,Target 6.4
+INDIGO-POJ-0330,metric-0330,516.36,Improved outcomes for households in criminal justice sector,Women,652,Household,391,Criminal justice,SDG 14,SDG 17,Target 9.3,Target 6.4
+INDIGO-POJ-0331,metric-0331,881.45,Improved outcomes for households in criminal justice sector,Disabled persons,506,Household,303,Criminal justice,SDG 5,SDG 12,Target 5.4,Target 9.1
+INDIGO-POJ-0332,metric-0332,754.45,Improved outcomes for individuals in education sector,Disabled persons,469,Individual,304,Education,SDG 14,SDG 14,Target 7.2,Target 3.4
+INDIGO-POJ-0333,metric-0333,768.44,Improved outcomes for individuals in criminal justice sector,Refugees,852,Individual,511,Criminal justice,SDG 9,SDG 14,Target 4.1,Target 3.2
+INDIGO-POJ-0334,metric-0334,482.94,Improved outcomes for individuals in health sector,Refugees,328,Individual,180,Health,SDG 5,SDG 2,Target 9.1,Target 3.1
+INDIGO-POJ-0335,metric-0335,411.34,Improved outcomes for households in housing sector,Disabled persons,232,Household,139,Housing,SDG 7,SDG 11,Target 7.3,Target 8.3
+INDIGO-POJ-0336,metric-0336,433.93,Improved outcomes for households in health sector,Youth,454,Household,249,Health,SDG 16,SDG 6,Target 4.3,Target 7.1
+INDIGO-POJ-0337,metric-0337,988.88,Improved outcomes for familys in criminal justice sector,Youth,762,Family,457,Criminal justice,SDG 7,SDG 16,Target 7.3,Target 6.2
+INDIGO-POJ-0338,metric-0338,136.1,Improved outcomes for familys in health sector,Women,798,Family,438,Health,SDG 7,SDG 4,Target 4.4,Target 6.1
