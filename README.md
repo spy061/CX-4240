@@ -18,8 +18,7 @@ Requirements to run:
 ├── pandas, numpy, matplotlib, seaborn
 ├── scikit-learn
 ├── xgboost 
-
-├── SIB_Success_Prediction.ipynb # Main notebook ├── synthetic_data/ # Folder with cleaned synthetic datasets │ ├── Structured_Projects_Data.csv │ ├── Structured_Investments.csv │ ├── Structured_Outcome_Metrics.csv │ └── Structured_Outcome_Payments.csv
+``` ├── SIB_Success_Prediction.ipynb # Main notebook ├── synthetic_data/ # Folder with cleaned synthetic datasets │ ├── Structured_Projects_Data.csv │ ├── Structured_Investments.csv │ ├── Structured_Outcome_Metrics.csv │ └── Structured_Outcome_Payments.csv ``` --- ## ✅ Requirements to Run ``` ├── Python 3.x ├── pandas ├── numpy ├── matplotlib ├── seaborn ├── scikit-learn └── xgboost ``
 
 
 Edit
