@@ -5,7 +5,7 @@ Serena Yin, Cyra Alesha, Nadia Bozeman, Sophie Hollowell
 
 This is the repository for all the code and materials for Group 18's CX 4240 Project
 
-tructure
+Structure
 ├── Datasets/
 │   ├── Social Impact Bonds Data/        # Folder with all original data downloaded from the Indigo Impact Bond Dataset curated by the Government Outcomes Lab at the University of Oxford
 │   ├── Synthetic Data/                  # Folder with the synthetic data supplemented by ChatGPT
