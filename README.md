@@ -1,16 +1,29 @@
 # CX-4240
+```
+Group 18
+Serena Yin, Cyra Alesha, Nadia Bozeman, Sophie Hollowell
+
+This is the repository for all the code and materials for Group 18's CX 4240 Project
+
+tructure
+├── Datasets/
+│   ├── Social Impact Bonds Data/        # Folder with all original data downloaded from the Indigo Impact Bond Dataset curated by the Government Outcomes Lab at the University of Oxford
+│   ├── Synthetic Data/                  # Folder with the synthetic data supplemented by ChatGPT
+│   │   ├── Structured_Projects_Data.csv
+│   │   ├── Structured_Investments.csv
+│   │   ├── Structured_Outcome_Metrics.csv
+│   │   ├── Structured_Outcome_Payments.csv
+├── Models/
+|   ├── SIB_Success_Prediction.ipynb     # Notebook with models to predict the success of a Social Impact Bond
+|   ├── Final Model - IRR.ipynb          # Notebook with models to predict the Internal Rate of Return of a Social Impact Bond
+|   ├── CX4240_Project_Final_Exploratory_Models.ipynb    # Notebook with further models to explore what enriching the dataset in the future may look like
+├── CX 4240 Presentation.pdf             # PDF of presentation slides
+├── Final Report.pdf                     # PDF of final report
+```
 
 ```
 SIB_Success_Prediction.ipynb
 This notebook explores the predictive modeling of Social Impact Bond (SIB) project outcomes. The goal is to estimate financial metrics like Success Probability based on pre-investment features, and simulate decision-making strategies for investors.
-
-Structure
-├── SIB_Success_Prediction.ipynb        # Main notebook
-├── synthetic_data/                     # Folder with cleaned synthetic datasets
-│   ├── Structured_Projects_Data.csv
-│   ├── Structured_Investments.csv
-│   ├── Structured_Outcome_Metrics.csv
-│   └── Structured_Outcome_Payments.csv
 
 Requirements to run: 
 ├── Python 3.x
@@ -19,18 +32,20 @@ Requirements to run:
 ├── xgboost
 ```
 
+```
+Final Model - IRR.ipynb
+This notebook explores the predictive mdoeling of Social Impact Bond (SIB) Internal Rate of Returns. The goal is to estimate the Internal Rate of Return based on pre-investment features, and simulate decision-making strategies for investors.
+
+Requirements to run: 
+├── Python 3.x
+├── pandas, numpy, matplotlib, seaborn
+├── scikit-learn
+├── xgboost
+```
 
 ```
 CX4240_Project_Final_Exploratory_Models.ipynb
 This notebook extends the predictive modeling of Social Impact Bond (SIB) outcomes by introducing and forecasting the IRR Achieved Ratio—a continuous metric representing how well a project performed relative to its target return. In addition to estimating success probability, the goal is to enrich the dataset and provide investors with deeper insights into return quality, enabling more informed, risk-adjusted decision-making strategies based on pre-investment features.
-
-Structure
-├── CX4240_Project_Final_Exploratory_Models.ipynb # Main notebook
-├── synthetic_data/                     # Folder with cleaned synthetic datasets
-│   ├── Structured_Projects_Data.csv
-│   ├── Structured_Investments.csv
-│   ├── Structured_Outcome_Metrics.csv
-│   └── Structured_Outcome_Payments.csv
 
 Requirements to Run:
 ├── Python 3.11 or lower
